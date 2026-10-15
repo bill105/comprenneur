@@ -1,9 +1,12 @@
 # comprenneur
 Un apprenant du langage par pure      vérification — construction contre prédiction, mesuré
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> 8071ec33b668a87f4cd87a7355cf02144c481121
 # COMPRENEUR
 
 ## A verified-only language learner
@@ -93,4 +96,8 @@ This is a demonstration of **mechanism**, not of scaling laws. Whether verified-
 
 ### License
 
+<<<<<<< HEAD
 MIT. Everything regenerable from sealed inputs.
+=======
+MIT. Everything regenerable from sealed inputs.
+>>>>>>> 8071ec33b668a87f4cd87a7355cf02144c481121
